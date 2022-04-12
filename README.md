@@ -26,16 +26,23 @@ Deliverable 1
   
   
 **2)  Selection of data to analyze from the Open Data Registry for Amazon Web Services https://registry.opendata.aws/ **
+   We are decided to go with the following topic:- 
+       New York City Taxi and Limousine Commission (TLC) Trip Record Data
+       https://registry.opendata.aws/nyc-tlc-trip-records-pds/
+       
+       Data:- https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+       The data provides us Data of trips taken by taxis and for-hire vehicles in New York City.
 
 **3)  Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity)**
 
-  Some of the business problems that are being addressed are
-
-- Lowering churn: Over the time of accessible data, the decrease trend in the number of trips taken is examined. It's possible that this is related to the customers' preference for public transit.
-
-- CAPEX optimization: Trip locations and how riders and taxis are assigned to each other have an impact on car fuel consumption and maintenance. The car's whole historical journey data is used to predict indicators of wear and tear of various elements of the car.
-
-- Cross-selling: Bundling of various vender services in a subscription package is correlated with increased trips taken by the subscribers.
+Some of the business problems that are being addressed are
+   a.Lowering churn: Over the time of accessible data, the decreasing trend in the number of trips taken is examined. It's possible that this is related to the customers' preference for public transit.
+   
+   b.CAPEX optimization: Trip locations and how riders and taxis are assigned to each other have an impact on car fuel consumption and maintenance. The car's whole historical journey data is used to predict indicators of wear and tear of various elements of the car.
+   
+   c.Cross-selling: Bundling of various vendor services in a subscription package is correlated with increased trips taken by the subscribers. 
+   
+   d.Locations: The traveler fails to mention the trip's destination properly. The phone numbers of the driver and rider are not being updated. Taxi drivers are unable to discover the starting and finishing points of rides due to improved network, incorrect guidance of Google Maps that is connected to the firm applications, and being unfamiliar with the surrounding area. The pick-up site is a significant distance away, which results in a long wait period. Taxi drivers may only obtain a few rides in high-traffic areas and during peak hours. All of these issues contribute to a large consumption of petrol, as well as an increase in the price of journeys, which is not economically beneficial to the rider, and a significant amount of time is spent ( the efficiency of the ride will be very low and loose of the rider will increase)
 
 
 **4)  Research Objectives and Question(s) (what you are trying to describe or predict with the data)**
