@@ -31,9 +31,9 @@ Deliverable 1
 
   Some of the business problems that are being addressed are
 
-- Lowering churn: the downward trend of number of trips taken over the period of available data is analysed. This could be due to the customers opting for public transportation.
+- Lowering churn: Over the time of accessible data, the decrease trend in the number of trips taken is examined. It's possible that this is related to the customers' preference for public transit.
 
-- CAPEX optimization: The fuel consumption and maintenance of cars is correlated with trip locations and how riders and taxis are assigned to each other. Predicting signs of wear and tear of various parts of the car based on the car's entire historical trip data is dealt as well.
+- CAPEX optimization: Trip locations and how riders and taxis are assigned to each other have an impact on car fuel consumption and maintenance. The car's whole historical journey data is used to predict indicators of wear and tear of various elements of the car.
 
 - Cross-selling: Bundling of various vender services in a subscription package is correlated with increased trips taken by the subscribers.
 
