@@ -29,6 +29,15 @@ Deliverable 1
 
 **3)  Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity)**
 
+  Some of the business problems that are being addressed are
+
+- Lowering churn: the downward trend of number of trips taken over the period of available data is analysed. This could be due to the customers opting for public transportation.
+
+- CAPEX optimization: The fuel consumption and maintenance of cars is correlated with trip locations and how riders and taxis are assigned to each other. Predicting signs of wear and tear of various parts of the car based on the car's entire historical trip data is dealt as well.
+
+- Cross-selling: Bundling of various vender services in a subscription package is correlated with increased trips taken by the subscribers.
+
+
 **4)  Research Objectives and Question(s) (what you are trying to describe or predict with the data)**
 
    a. Pick-up and drop-off dates/times, pick-up and drop-off locations, trip lengths, itemized rates, rate kinds, payment methods, and driver-reported passenger counts are all captured in the yellow and green cab trip records. Technology providers authorized under the Taxicab and Livery Passenger Enhancement Programs (TPEP/LPEP) gathered and supplied the data utilized in the linked datasets to the NYC Taxi and Limousine Commission (TLC).
