@@ -56,5 +56,16 @@ Some of the business problems that are being addressed are
    d. Comparison between yellow taxis, green taxis, for-hire taxis, and High Volume of For-hire vehicles is done so that the importance of each taxi at a particular place and time can be determined.
    
    e. Data helping TLC to provide licenses to access which type of taxis and why
+   
+**5)Data Understanding
+     a) Exploratory Data Analysis
+     
+   b) Dashboard
+   All dashbaords are present in dashbaord fodler
+ 
+     
+**6)Data Preparation
+    Data Preparation python files is created name as Deliverables2_Data_preparation.ipynb
+     
 
 
