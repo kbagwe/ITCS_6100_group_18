@@ -36,6 +36,7 @@ Deliverable 1
 **3)  Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem, or opportunity)**
 
 Some of the business problems that are being addressed are
+
    a.Lowering churn: Over the time of accessible data, the decreasing trend in the number of trips taken is examined. It's possible that this is related to the customers' preference for public transit.
    
    b.CAPEX optimization: Trip locations and how riders and taxis are assigned to each other have an impact on car fuel consumption and maintenance. The car's whole historical journey data is used to predict indicators of wear and tear of various elements of the car.
@@ -61,7 +62,7 @@ Some of the business problems that are being addressed are
      a) Exploratory Data Analysis
      
    b) Dashboard
-   All dashbaords are present in dashbaord fodler
+   All dashbaords are present in dashbaord folder
  
      
 **6)Data Preparation
