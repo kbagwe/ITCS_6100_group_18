@@ -59,7 +59,8 @@ Some of the business problems that are being addressed are
    e. Data helping TLC to provide licenses to access which type of taxis and why
    
 **5)Data Understanding
-     a) Exploratory Data Analysis
+
+   a) [Exploratory Data Analysis](Data exploration.pdf)
      
    b) Dashboard
    All dashbaords are present in dashbaord folder
