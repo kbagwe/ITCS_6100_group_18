@@ -60,7 +60,7 @@ Some of the business problems that are being addressed are
    
 **5)Data Understanding
 
-   a) [Exploratory Data Analysis](Data exploration.pdf)
+   a) [Exploratory Data Analysis](Data_exploration.pdf)
      
    b) Dashboard
    All dashbaords are present in dashbaord folder
