@@ -68,6 +68,18 @@ Some of the business problems that are being addressed are
      
 **6)Data Preparation
     Data Preparation python files is created name as Deliverables2_Data_preparation.ipynb
+
+**7)Analytics, Machine Learning
+    Kindly refer Deliverable3.ipynb for analysis and machine learning optimization
+
+**8)Evaluation and Optimization
+    Kindly refer Deliverable3_Group_18.docx for evaluation and Optimization 
+
+**9)Results
+    Kindly refer Deliverable3_Group_18.docx for results
+    
+**10)Future Work, Comments - students may want to consider the following questions
+    Kindly refer Deliverable3_Group_18.docx for future work and other details
      
 
 
